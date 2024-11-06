@@ -1,0 +1,18 @@
+table{
+    border: 4px, double, rgb(0, 0, 0)
+}
+td{
+   border: 2px, double, rgb(69, 115, 200) 
+}
+:root{
+    background-color:rgb(28, 142, 208);
+}
+h1{
+    text-align: center;
+}
+#cartable{
+    border: 3px, solid rgb(18, 188, 18);width: 100%; text-align: center;
+}
+#biketable{
+    border: 10px, double, red;width: 100%; text-align: center;
+}
